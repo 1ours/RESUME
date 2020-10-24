@@ -1,6 +1,6 @@
-# RESUME
+# 이력서
 
-이력서
+# 소개
 
 - 이름 : 권도훈
 - Email : lours2021@gmail.com
